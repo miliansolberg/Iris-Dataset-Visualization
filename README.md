@@ -31,10 +31,8 @@ creating plots.
 
 ## Installation
 To set up the project environment:
-1. Clone the repository: git clone [url]
-2. Install the required Python packages:
-pip install pandas matplotlib seaborn
-
+1. Clone the repository: git clone https://github.com/miliansolberg/Iris-Dataset-Visualization
+2. Install the required Python packages: pip install pandas matplotlib seaborn
 
 ## Usage
 Run the Jupyter notebooks or Python scripts included in the project. Each 
@@ -43,10 +41,10 @@ script corresponds to a different type of visualization.
 ## Data Source
 The Iris dataset used in this project is a popular dataset in data science 
 and machine learning, often used for classification and visualization 
-tasks. It can be found [here](link to dataset source).
+tasks. It can be found here: https://archive.ics.uci.edu/dataset/53/iris
 
 ## License
-This project is available under the [MIT License](link to license).
+This project is available under the MIT License.
 
 ## Acknowledgments
 Special thanks to the creators of the Iris dataset and the Python 
